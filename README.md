@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bem vindo ao meu perfil!
 
-<!--
-**oliveiraaz/oliveiraaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando a disciplina de PC.
 
-Here are some ideas to get you started:
+Estou aprendendo algumas linguagens de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na [Alura] (https://alura.com).
+
+Uso esse espaço para me organizar e compartilhar meus códigos.
+
+Meus Contatos
+
+polyanna.mira@escola.pr.gov.br
